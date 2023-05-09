@@ -1,12 +1,17 @@
 # Portfolio
 
 <h1>Intro Here</h1>
-Hi, My name is Adeayo
+Hi there. 👋🏾
+My name is Adeayooluwa Oladipo.
+But you can call me Adeayo for short.
 
 
-<h1>More Talking here</h1>
+<h1>About Me</h1>
+I am a Fullstack Software Developer with about 3+ years of experience with a variety of languages and Technologies.
+Such as C#,Java,PHP,Javascript,React just to name a few.
 
-Not sure what else to put here other than I write stuff that looks funny.
+
+I also dabble in a little bit of game development. Originally I was using the Unity game engine, but lately I have been using both Flax Engine and Monogame framework
 
 
 <h1>Outro</h1>
